@@ -4,7 +4,6 @@
 
 ---
 
-![Donut Chart with Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkerSajjad&layout=donut)
 
 <div style="display: flex; justify-content: space-around; padding: 10px; background-color: #f3e5f5; border-radius: 10px;">
   <div>
