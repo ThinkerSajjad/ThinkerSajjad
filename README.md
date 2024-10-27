@@ -6,8 +6,8 @@
 
 <div style="display: flex; justify-content: space-around; padding: 10px; background-color: #f3e5f5; border-radius: 10px;">
   <div>
-    <h4>My Expertise</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <h3>My Expertise</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
       <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
