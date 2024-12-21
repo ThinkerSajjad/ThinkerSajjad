@@ -48,8 +48,12 @@
 ### [Sentemio- A digital memorial website](https://sentemio.de)
 ![Project One Image](https://i.postimg.cc/m2zXCKKB/Screenshot-165.png)
 
+### [Master Studies- Frontend version of an online course finder platform](https://masterstudies-446jii5ji-sajjads-projects-8e4bba01.vercel.app/en/master)
+![Project Two Image](https://i.postimg.cc/htSgQR4Y/Screenshot-2024-12-22-003514.png)
+
+
 ### [Sandalwood Memories- Preserve memories](https://www.sandalwoodmemories.com/)
-![Project Two Image](https://i.postimg.cc/kgWThKnH/Screenshot-166.png)
+![Project Three Image](https://i.postimg.cc/kgWThKnH/Screenshot-166.png)
 
 ---
 
